@@ -1,0 +1,10 @@
+.demo{
+    background-color: teal;
+    border: 2px solid black;
+    padding: 10px;
+}
+.vip{
+    background-color: burlywood;
+    border: 2px solid rgba(67, 63, 63, 0.118);
+    padding: 10px;
+}
